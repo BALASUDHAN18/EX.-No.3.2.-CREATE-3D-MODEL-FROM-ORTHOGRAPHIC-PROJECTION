@@ -1,5 +1,8 @@
 # EX No.3.2. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
 ## DATE:26.12.2022
+## NAME:MOHMAED FAREED.F
+## REF NO:22001617
+
 ## AIM:
 To create a 3D model from given orthographic projection.
 
