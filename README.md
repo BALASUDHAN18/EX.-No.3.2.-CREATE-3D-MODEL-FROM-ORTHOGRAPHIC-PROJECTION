@@ -45,7 +45,8 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198823540-38a1b79a-1f68-4876-add9-adf59b98b386.png)
 
 ## OUTPUT:
-![Screenshot_20230130_040526](https://user-images.githubusercontent.com/118807740/215466450-9fa1e8ee-7bcf-4ec8-b221-34fe7c3be5d6.png)
+![3 2 BALA](https://user-images.githubusercontent.com/118807740/215516391-39ce2bc5-f582-4139-8df9-37758802a8db.png)
+
 
 
 ## RESULT:
